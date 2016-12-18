@@ -29,16 +29,21 @@ Project | Description | Device Compatability | Platform
 [FreeStyle-Libre-to-CGM](https://github.com/gyordanov2000/FreeStyle-Libre-to-CGM) | A device to read FreeStyle Libre BG sensor and sending data to the cloud | Libre | ..
 [HAPP](https://github.com/timomer/HAPP) | Open-loop system for Android | Medtronic Pump, Medtronic CGM, Dexcom CGM | Android
 [iPancreas-dexcom](https://github.com/jebeck/iPancreas-dexcom) | Utilities for data from a Dexcom continuous glucose monitor | Dexcom GCM | Python
+[Liapp](https://github.com/CMKlug/Liapp) | The unofficial Android app for the Abbott Freestyle Libre | Libre | Android
 [LibreAlarm](https://github.com/pimpimmi/LibreAlarm) | .. | Libre | Android
 [LibreMonitor](https://github.com/UPetersen/LibreMonitor) | LibreMonitor is a little DIY device that uses near field communication to read data from a Freestyle Libre sensor and transmit it via bluetooth low energy to an iPhone application | Libre | iPhone
+[mmeowlink](https://github.com/oskarpearson/mmeowlink) | Driver layer for communicating with Medtronic pumps over a variety of radios | Medtronic Pumps | ..
 [Nightscout Aggregator](https://github.com/nightscout/nightscout-aggregator) | Webapp serving as a lens to view multiple Nightscout installs at the same time | .. | node
 [Nightscout-on-Windows-Server](https://github.com/jaylagorio/Nightscout-on-Windows-Server) | A walk-through showing Nightscout and all of its dependencies and services installed on Windows Server | .. | Windows
 [Nightscouter](https://github.com/someoneAnyone/Nightscouter) | A native iOS app for displaying Nightscout data | .. | iOS
 [NightWatch](https://github.com/StephenBlackWasAlreadyTaken/NightWatch) | A native android Nightscout client with alerts and google wear integration ([more](http://stephenblackwasalreadytaken.github.io/NightWatch/))| .. | Android, Android Wear
+[OpenOmni](https://github.com/openaps/openomni) | Documentation and library for decoding omnipod communications ([more](http://www.openomni.org/)) | OmniPod | ..
+[Parakeet](https://github.com/jamorham/wixel-xDrip) | Portable home-built device which receives wireless signals from a commercial continuous glucose sensor ([more](https://jamorham.github.io/#parakeet)) | Dexcom G4 | ..
+[Universal Glucometer](https://hackaday.io/project/10865-universal-glucometer) | Open-source glucometer able to use multiple types of strips | .. | ..
 [Urchin CGM](https://github.com/mddub/urchin-cgm) | A graph of your CGM data on a Pebble watch | .. | Pebble
 [Windows-Universal-Uploader](https://github.com/jaylagorio/Windows-Universal-Uploader) | A Universal Windows Platform application to upload data to Nightscout | .. | Windows
+[wixel-xDrip](https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip) | Allow a wixel to function as Dexcom Reciever | Dexcom G4 | ..
 [xDrip](https://github.com/StephenBlackWasAlreadyTaken/xDrip) | Replacement receiver for Dexcom CGM ([more](http://stephenblackwasalreadytaken.github.io/xDrip/))| Dexcom G4 | Android
 [xDripXP](https://github.com/kurohai/xDripXP) | Cross platform Dexcom G5 Receiver | Dexcom G5 | Android, iPhone
-[xDrip+](https://github.com/NightscoutFoundation/xDrip) | Enhanced version of xDrip | .. | Android
-
+[xDrip+](https://github.com/NightscoutFoundation/xDrip) | Enhanced version of xDrip ([more](https://jamorham.github.io/#xdrip-plus))| .. | Android
 
