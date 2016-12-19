@@ -18,6 +18,7 @@ Project | Description | Device Compatability | Platform
 [Android Uploader](https://github.com/nightscout/android-uploader) | Android Uploader for the Nightscout Project | .. | Android
 [CareLink-USB-for-Windows-Apps](https://github.com/jaylagorio/CareLink-USB-for-Windows-Apps) | Shows how to use the CareLink USB stick in Windows apps with the Jungo WinDriver and Microsoft WinUSB drivers | .. | Windows
 [ContourNextOneReader](https://github.com/LadyViktoria/ContourNextOneReader) | Small example to get glucose readings from Contour Next One BG Meter | Contour Next One | ..
+[decobayer](https://github.com/bewest/bayer-medtronic-interface) | Python package decobayer attempts to implement remote protocol for Bayer Contour Nextlink | Medtronic Pumps, Bayer Contour NextLink | Python
 [decocare](https://github.com/openaps/decocare) | Python serial driver for mm comlink2 protocol | Medtronic Pumps | Python
 [DexChrome](https://github.com/cobbs-totem/DexChrome) | .. | Dexcom CGM | Chrome
 [Dexcom](https://github.com/jaylagorio/Dexcom) | A Universal Windows Platform library for retrieving data from Dexcom G4 Receiver devices | Dexcom CGM | Windows
@@ -34,6 +35,7 @@ Project | Description | Device Compatability | Platform
 [G4ShareSpy](https://github.com/mddub/G4ShareSpy) | iOS framework to read Dexcom G4 Share data over BLE | Dexcom CGM | iOS
 [GlucoDyn](https://github.com/Perceptus/GlucoDyn) | GlucoDyn was created to educate T1D's and their caregivers about blood sugar dynamics ([more](http://perceptus.org/))| .. | Web App
 [HAPP](https://github.com/timomer/HAPP) | Open-loop system for Android | Medtronic Pump, Medtronic CGM, Dexcom CGM | Android
+[ihawk](https://github.com/kenstack/ihawk) | jquery mobile based application for controlling medtronic pumps using decocare | Medtronic Pumps | ..
 [IOB](https://github.com/Perceptus/iob) | Insulin on board as percentage of insulin bolus | .. | ..
 [iPancreas-dexcom](https://github.com/jebeck/iPancreas-dexcom) | Utilities for data from a Dexcom continuous glucose monitor | Dexcom GCM | Python
 [Liapp](https://github.com/CMKlug/Liapp) | The unofficial Android app for the Abbott Freestyle Libre | Libre | Android
@@ -42,6 +44,8 @@ Project | Description | Device Compatability | Platform
 [Loop](https://github.com/LoopKit/Loop) | An automated insulin delivery app template for iOS, built on LoopKit | .. | iPhone
 [LoopKit](https://github.com/LoopKit/LoopKit) | A set of iOS tools for building closed-loop insulin delivery apps | .. | iPhone
 [minimed-connect-to-nightscout](https://github.com/mddub/minimed-connect-to-nightscout) | Send Medtronic pump and CGM data to Nightscout | Medtronic Pumps, Medtronic CGM | ..
+[minimed_rf](https://github.com/ps2/minimed_rf) | Decoding the radio protocol used by medtronic pumps, enlite cgm, and mysentry monitor | Medtronic Pumps, Medtronic CGM | ..
+[mmcsv](https://github.com/bewest/mmcsv) | Medtronic csv utilities | Medtronic Pumps | ..
 [mmeowlink](https://github.com/oskarpearson/mmeowlink) | Driver layer for communicating with Medtronic pumps over a variety of radios | Medtronic Pumps | ..
 [Nightguard](https://github.com/nightscout/nightguard) | This is an iPhone and Apple Watch application to display blood glucose values stored at your nightscout server | .. | iPhone, Apple Watch
 [Nightscout](https://github.com/nightscout/cgm-remote-monitor) | Nightscout (CGM in the Cloud) is an open source, DIY project that allows real time access to a CGM data via personal website, smartwatch viewers, or apps and widgets available for smartphones ([more](http://www.nightscout.info/)) | .. | ..
@@ -51,17 +55,22 @@ Project | Description | Device Compatability | Platform
 [Nightscouter](https://github.com/someoneAnyone/Nightscouter) | A native iOS app for displaying Nightscout data | .. | iOS
 [NightWatch](https://github.com/StephenBlackWasAlreadyTaken/NightWatch) | A native android Nightscout client with alerts and google wear integration ([more](http://stephenblackwasalreadytaken.github.io/NightWatch/))| .. | Android, Android Wear
 [NSClient-Android](https://github.com/nightscout/NSClient-Android) | Native Websocket client for android | .. | Android
-[oref0](https://github.com/openaps/oref0) | The open reference implementation of the OpenAPS reference design | .. | ..
-[OpenAPS](https://github.com/openaps/openaps) | ([more](https://openaps.org/), [even more](https://openaps.readthedocs.io/en/latest/index.html))
+[omnipod_rf](https://github.com/ps2/omnipod_rf) | Tools for working with raw iq data from an SDR, and will decode the omnipod signal into packets | OmniPod | ..
+[OpenAPS](https://github.com/openaps/openaps) | Do-It-Yourself (DIY) implementation of an artificial pancreas based on the OpenAPS reference design ([more](https://openaps.org/), [even more](https://openaps.readthedocs.io/en/latest/index.html)) | .. | ..
 [openaps-glucosetools](https://github.com/loudnate/openaps-glucosetools) | Tools for cleaning and reformatting glucose sensor data | .. | ..
 [openaps-mmhistorytools](https://github.com/loudnate/openaps-mmhistorytools) | Tools for cleaning, condensing, and reformatting openaps history data | .. | ..
 [openaps-monitor](https://github.com/loudnate/openaps-monitor) | Status dashboard for your openaps project | .. | ..
 [openaps-predict](https://github.com/loudnate/openaps-predict) | Tools for predicting glucose trends | .. | ..
 [OpenOmni](https://github.com/openaps/openomni) | Documentation and library for decoding omnipod communications ([more](http://www.openomni.org/)) | OmniPod | ..
 [openxshareble](https://github.com/openaps/openxshareble) | A pure python ble driver for Dexcom G4 + Share suitable for openaps | Dexcom CGM | Python
+[oref0](https://github.com/openaps/oref0) | The open reference implementation of the OpenAPS reference design | .. | ..
 [Pancreabble](https://github.com/mddub/pancreabble) | Send OpenAPS status updates to a Pebble watch via Bluetooth | .. | Pebble
 [Parakeet](https://github.com/jamorham/wixel-xDrip) | Portable home-built device which receives wireless signals from a commercial continuous glucose sensor ([more](https://jamorham.github.io/#parakeet)) | Dexcom G4 | ..
+[Pingrf](https://github.com/mariusae/pingrf) | RF stack for the Animas OneTouch Ping insulin pump | Animas OneTouch Ping | ..
+[RileyLink](https://github.com/ps2/rileylink) | A custom designed Bluetooth Smart (BLE) to Sub-1 GHz module | Minimed Pumps, Minimed CGM | ..
+[RileyLink iOS App](https://github.com/ps2/rileylink_ios) | RileyLink iOS App, RileyLink Frameworks, and MinimedKit decoding Framework | Minimed Pumps, Minimed CGM | iOS
 [Share to Nightscout Bridge](https://github.com/nightscout/share2nightscout-bridge) | Copies your CGM data from Dexcom web services to a Nightscout website | .. | ..
+[subg_rfspy](https://github.com/ps2/subg_rfspy) | General purpose firmware for CC111x for sub-ghz RF comms | Medtronic Pumps | ..
 [Universal Glucometer](https://hackaday.io/project/10865-universal-glucometer) | Open-source glucometer able to use multiple types of strips | .. | ..
 [Urchin CGM](https://github.com/mddub/urchin-cgm) | A graph of your CGM data on a Pebble watch | .. | Pebble
 [Windows-Universal-Uploader](https://github.com/jaylagorio/Windows-Universal-Uploader) | A Universal Windows Platform application to upload data to Nightscout | .. | Windows
