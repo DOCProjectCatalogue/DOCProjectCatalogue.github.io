@@ -32,11 +32,15 @@ Project | Description | Device Compatability | Platform
 [FreeStyleLibre-NFC-Reader](https://github.com/vicktor/FreeStyleLibre-NFC-Reader) | Read data from a FreeStyleLibre with Android | Libre | Android
 [FreeStyle-Libre-to-CGM](https://github.com/gyordanov2000/FreeStyle-Libre-to-CGM) | A device to read FreeStyle Libre BG sensor and sending data to the cloud | Libre | ..
 [G4ShareSpy](https://github.com/mddub/G4ShareSpy) | iOS framework to read Dexcom G4 Share data over BLE | Dexcom CGM | iOS
+[GlucoDyn](https://github.com/Perceptus/GlucoDyn) | GlucoDyn was created to educate T1D's and their caregivers about blood sugar dynamics ([more](http://perceptus.org/))| .. | Web App
 [HAPP](https://github.com/timomer/HAPP) | Open-loop system for Android | Medtronic Pump, Medtronic CGM, Dexcom CGM | Android
+[IOB](https://github.com/Perceptus/iob) | Insulin on board as percentage of insulin bolus | .. | ..
 [iPancreas-dexcom](https://github.com/jebeck/iPancreas-dexcom) | Utilities for data from a Dexcom continuous glucose monitor | Dexcom GCM | Python
 [Liapp](https://github.com/CMKlug/Liapp) | The unofficial Android app for the Abbott Freestyle Libre | Libre | Android
 [LibreAlarm](https://github.com/pimpimmi/LibreAlarm) | .. | Libre | Android
 [LibreMonitor](https://github.com/UPetersen/LibreMonitor) | LibreMonitor is a little DIY device that uses near field communication to read data from a Freestyle Libre sensor and transmit it via bluetooth low energy to an iPhone application | Libre | iPhone
+[Loop](https://github.com/LoopKit/Loop) | An automated insulin delivery app template for iOS, built on LoopKit | .. | iPhone
+[LoopKit](https://github.com/LoopKit/LoopKit) | A set of iOS tools for building closed-loop insulin delivery apps | .. | iPhone
 [minimed-connect-to-nightscout](https://github.com/mddub/minimed-connect-to-nightscout) | Send Medtronic pump and CGM data to Nightscout | Medtronic Pumps, Medtronic CGM | ..
 [mmeowlink](https://github.com/oskarpearson/mmeowlink) | Driver layer for communicating with Medtronic pumps over a variety of radios | Medtronic Pumps | ..
 [Nightguard](https://github.com/nightscout/nightguard) | This is an iPhone and Apple Watch application to display blood glucose values stored at your nightscout server | .. | iPhone, Apple Watch
@@ -49,6 +53,10 @@ Project | Description | Device Compatability | Platform
 [NSClient-Android](https://github.com/nightscout/NSClient-Android) | Native Websocket client for android | .. | Android
 [oref0](https://github.com/openaps/oref0) | The open reference implementation of the OpenAPS reference design | .. | ..
 [OpenAPS](https://github.com/openaps/openaps) | ([more](https://openaps.org/), [even more](https://openaps.readthedocs.io/en/latest/index.html))
+[openaps-glucosetools](https://github.com/loudnate/openaps-glucosetools) | Tools for cleaning and reformatting glucose sensor data | .. | ..
+[openaps-mmhistorytools](https://github.com/loudnate/openaps-mmhistorytools) | Tools for cleaning, condensing, and reformatting openaps history data | .. | ..
+[openaps-monitor](https://github.com/loudnate/openaps-monitor) | Status dashboard for your openaps project | .. | ..
+[openaps-predict](https://github.com/loudnate/openaps-predict) | Tools for predicting glucose trends | .. | ..
 [OpenOmni](https://github.com/openaps/openomni) | Documentation and library for decoding omnipod communications ([more](http://www.openomni.org/)) | OmniPod | ..
 [openxshareble](https://github.com/openaps/openxshareble) | A pure python ble driver for Dexcom G4 + Share suitable for openaps | Dexcom CGM | Python
 [Pancreabble](https://github.com/mddub/pancreabble) | Send OpenAPS status updates to a Pebble watch via Bluetooth | .. | Pebble
@@ -59,6 +67,7 @@ Project | Description | Device Compatability | Platform
 [Windows-Universal-Uploader](https://github.com/jaylagorio/Windows-Universal-Uploader) | A Universal Windows Platform application to upload data to Nightscout | .. | Windows
 [wixel-xDrip](https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip) | Allow a wixel to function as Dexcom Reciever | Dexcom G4 | ..
 [xDrip](https://github.com/StephenBlackWasAlreadyTaken/xDrip) | Replacement receiver for Dexcom CGM ([more](http://stephenblackwasalreadytaken.github.io/xDrip/))| Dexcom G4 | Android
+[xDripG5](https://github.com/LoopKit/xDripG5) | A iOS framework providing an interface for communicating with the G5 glucose transmitter over Bluetooth | Dexcom G5 | iOS
 [xDripXP](https://github.com/kurohai/xDripXP) | Cross platform Dexcom G5 Receiver | Dexcom G5 | Android, iPhone
 [xDrip+](https://github.com/NightscoutFoundation/xDrip) | Enhanced version of xDrip ([more](https://jamorham.github.io/#xdrip-plus))| .. | Android
 
