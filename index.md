@@ -74,6 +74,7 @@ Project | Description | Device Compatability | Platform
 [openaps-mmhistorytools](https://github.com/loudnate/openaps-mmhistorytools) | Tools for cleaning, condensing, and reformatting openaps history data | .. | ..
 [openaps-monitor](https://github.com/loudnate/openaps-monitor) | Status dashboard for your openaps project | .. | ..
 [openaps-predict](https://github.com/loudnate/openaps-predict) | Tools for predicting glucose trends | .. | ..
+[Open Insulin Project](http://openinsulin.org/) | A team of Bay Area biohackers working on newer, simpler, less expensive ways to make insulin | .. | ..
 [OpenOmni](https://github.com/openaps/openomni) | Documentation and library for decoding omnipod communications ([more](http://www.openomni.org/)) | OmniPod | ..
 [openxshareble](https://github.com/openaps/openxshareble) | A pure python ble driver for Dexcom G4 + Share suitable for openaps | Dexcom CGM | Python
 [oref0](https://github.com/openaps/oref0) | The open reference implementation of the OpenAPS reference design | .. | ..
